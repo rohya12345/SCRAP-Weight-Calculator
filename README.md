@@ -1,32 +1,30 @@
-# SCRAP-Weight-Calculator
-### SCRAP Weight Calculator - Privacy Policy
+**Privacy Policy**
 
-**Last Updated:** March 2025  
+**Last Updated: [ march 2025 ]**
 
-#### 1. Introduction
-SCRAP Weight Calculator is a Chrome extension designed to automatically calculate weights in structured tables. This Privacy Policy explains how we handle your data and protect your privacy.  
+### **1. Introduction**
+Welcome to the **SCRAP Weight Calculator** Chrome Extension. Your privacy is important to us. This Privacy Policy explains how our extension operates and assures you that we do not collect, store, or share any personal data.
 
-#### 2. Data Collection & Usage
-- This extension **does not** collect, store, or share any personal, financial, or sensitive user data.  
-- All calculations are performed **locally** within your browser and are not transmitted to any external servers.  
-- The extension does not track your activity, read your browsing history, or access any private information.  
+### **2. Data Collection and Usage**
+- The **SCRAP Weight Calculator** extension does **not** collect, store, or share any personal data.
+- The extension operates **entirely within the user's browser** and does not transmit any information to external servers.
+- It only performs real-time calculations based on user input on supported webpages.
 
-#### 3. Permissions Used
-The extension requests the following permissions to function correctly:  
-- **activeTab** – Required to access and analyze tables on the currently active webpage.  
-- **storage** – Used only to save user preferences (if applicable in future updates).  
-- **host permissions (`<all_urls>`)** – Allows the extension to operate on any webpage containing structured weight tables.  
+### **3. Permissions Justification**
+- **activeTab Permission**: Required to detect if the extension is being used on a supported webpage.
+- **Host Permission (huid.manakonline.in)**: Necessary to enable real-time weight calculations within the **AHC Delivery Voucher** system.
+- No additional tracking or monitoring occurs beyond the core functionality.
 
-#### 4. Third-Party Services
-This extension does not use any third-party analytics, tracking tools, or advertising networks.  
+### **4. Third-Party Services**
+This extension does not use third-party services, trackers, or analytics tools.
 
-#### 5. Security
-We take your privacy seriously. Since the extension does not collect data, there is no risk of data breaches or misuse.  
+### **5. Security**
+- All processing occurs locally within your browser.
+- No user data is sent to external servers or shared with third parties.
 
-#### 6. Changes to this Privacy Policy
-We may update this Privacy Policy as needed. Any changes will be posted within the extension listing on the Chrome Web Store.  
+### **6. Changes to This Privacy Policy**
+We may update this policy if necessary. Any changes will be posted here with an updated effective date.
 
-#### 7. Contact Us
-If you have any questions or concerns regarding this Privacy Policy, you can contact us at:  
-📧 [Your Email or Website]
+### **7. Contact Information**
+If you have any questions or concerns, feel free to contact us at: **[Your Email or Support URL]**
 
